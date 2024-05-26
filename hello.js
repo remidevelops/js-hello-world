@@ -4,7 +4,14 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!")
+console.log(4)
+console.log(2 +3)
+console.log(2*3)
+console.log(2**3, 'Quoth the Raven "Nevermore"')
+let a = 11;
+let b = 6;
+console.log('The sum of ${a} and ${b} is ${a + b}');
 
 /*  
 Next, PLAY! 
